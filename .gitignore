@@ -1,5 +1,7 @@
 .idea/
 
+data/
+
 logs.txt
 
 # Byte-compiled / optimized / DLL files
